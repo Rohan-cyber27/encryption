@@ -43,3 +43,5 @@ def receive_message():
 
 # Call the receive_message function to start receiving messages
 receive_message()
+
+print("hello")
